@@ -22,9 +22,10 @@
     "email" : "contact@prajwalit.com",
     "url"   : "http://prajwalit.com"
   },
-  "license": "BSD",
+  "license": "MIT BSD",
   "readmeFilename": "README.md",
   "dependencies": {
-    "handlebars": ">=1.0.8"
+    "handlebars" : ">=1.0.8",
+    "chokidar"   : ">=0.5.3"
   }
 }
