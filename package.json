@@ -1,0 +1,30 @@
+{
+  "name": "whiskers",
+  "version": "0.1.0",
+  "description": "A tool to watch / compile HTML files into handlebars-compiled files.",
+  "main": "lib/whiskers.js",
+  "scripts": {
+    "test": "whiskers --watch"
+  },
+  "repository": {
+    "type" : "git",
+    "url"  : "https://github.com/prajwalit/whiskers"
+  },
+  "bin": { "whiskers": "bin/whiskers" }
+  "keywords": [
+    "handlebars",
+    "watcher",
+    "compiler",
+    "pre-compile"
+  ],
+  "author": {
+    "name"  : "Prajwalit",
+    "email" : "contact@prajwalit.com",
+    "url"   : "http://prajwalit.com"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "handlebars": ">=1.0.8"
+  }
+}

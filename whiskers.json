@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "path"      : "/Users/prajwalit/src/moby/resources/templates",
+    "root"      : "/Users/prajwalit/src/moby/resources",
+    "extension" : "hbc"
+  },
+  "prod": {
+
+  }
+}
