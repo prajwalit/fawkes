@@ -10,7 +10,7 @@
     "type" : "git",
     "url"  : "https://github.com/prajwalit/whiskers"
   },
-  "bin": { "whiskers": "bin/whiskers" }
+  "bin": { "whiskers": "bin/whiskers" },
   "keywords": [
     "handlebars",
     "watcher",
