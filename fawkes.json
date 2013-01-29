@@ -1,7 +1,7 @@
 {
   "dev": {
-    "path"      : "/Users/prajwalit/src/moby/resources/templates",
-    "root"      : "/Users/prajwalit/src/moby/resources",
+    "path"      : "/Path/To/Templates",
+    "root"      : "/Path/To/Root/",
     "extension" : "hbc"
   },
   "prod": {
