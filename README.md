@@ -3,6 +3,7 @@
 A tool to watch / compile HTML files into handlebars-compiled files.
 
 **Install**
+
     npm install -g handlebars
     npm install -g fawkes
 
@@ -32,5 +33,6 @@ A tool to watch / compile HTML files into handlebars-compiled files.
   `--config` option. (eg. `fawkes compile --config ../foo.json`)
 
 **Thanks**
+
 * [Handlebars](https://github.com/wycats/handlebars.js)
 * [Chokidar](https://github.com/paulmillr/chokidar)
