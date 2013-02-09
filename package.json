@@ -1,10 +1,10 @@
 {
   "name": "fawkes",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A tool to watch / compile HTML files into handlebars-compiled files.",
   "main": "lib/fawkes.js",
   "scripts": {
-    "test": "fawkes --watch"
+    "test": "fawkes watch"
   },
   "repository": {
     "type" : "git",
@@ -15,7 +15,9 @@
     "handlebars",
     "watcher",
     "compiler",
-    "pre-compile"
+    "pre-compile",
+    "mustache",
+    "templates"
   ],
   "author": {
     "name"  : "Prajwalit",
