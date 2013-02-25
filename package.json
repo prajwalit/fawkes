@@ -1,6 +1,6 @@
 {
   "name": "fawkes",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A tool to watch / compile HTML files into handlebars-compiled files.",
   "main": "lib/fawkes.js",
   "scripts": {
